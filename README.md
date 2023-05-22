@@ -1,3 +1,5 @@
-npm run dev para startar o proejeto
+npm run dev para startar o projeto
 
 npm run backend para rodar o db
+
+Projeto em vue.js
